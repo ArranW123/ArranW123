@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArranW123
+- 👋 Hi, I’m Arran Weeresekere
 - 👀 I’m interested in Computer Hardware and Software Development
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: email = weeresekere123@gmail.com
